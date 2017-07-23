@@ -5,7 +5,7 @@ from poloniex import poloniex
 
 def main(argv):
 	period = 10
-	pair = "BTC_XML"
+	pair = "ETH_BTC"
 	prices = []
 	currentMovingAverage = 0;
 	lengthOfMA = 0
